@@ -1,0 +1,18 @@
+{
+  "name": "scss_overwatch",
+  "version": "1.0.0",
+  "description": "CSS를 이용한 오버워치 영웅선택하면 예제",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "bundler": "^0.8.0",
+    "parcel": "^2.4.1"
+  }
+}
